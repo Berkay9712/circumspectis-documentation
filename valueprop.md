@@ -1,4 +1,5 @@
 ---
-title: value propositions
 layout: default
+title: value propositions
+nav_order: 1
 ---
