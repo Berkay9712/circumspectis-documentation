@@ -1,6 +1,7 @@
 ---
 title: Value Proposition
 nav_order: 2
+layout: default
 ---
 
 # Value Proposition
