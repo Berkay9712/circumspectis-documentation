@@ -1,6 +1,8 @@
 ---
 title: Value Proposition
 nav_order: 2
+layout: default
+nav_enabled: true
 ---
 
 # Value Proposition
