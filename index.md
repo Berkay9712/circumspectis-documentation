@@ -3,8 +3,8 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# Einleitung
-Hier finden Sie die ausführliche Dokumentation zu dem Projekt von Nurdan Turan und Berkay Olmaz zu der Webanwendung "circumspectis".
+# Vorwort
+Hier finden Sie die ausführliche Dokumentation zu dem Projekt von Nurdan Turan, Matrikelnummer und Berkay Olmaz, 77211880326 zu der Webanwendung "circumspectis".
 
 ---
 
